@@ -1,0 +1,35 @@
+{
+  "name": "level-range-emitter",
+  "description": "level-range emitter",
+  "keywords": [
+    "leveldb",
+    "levelup",
+    "ltgt",
+    "range",
+    "protocol",
+    "buffers",
+    "rpc",
+    "pubsub"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jameskyburz/level-range-emitter.git"
+  },
+  "author": {
+    "name": "James Kyburz",
+    "email": "james.kyburz@gmail.com"
+  },
+  "main": "index.js",
+  "version": "1.0.0",
+  "scripts": {
+    "prepublish": "standard"
+  },
+  "dependencies": {
+    "end-of-stream": "1.1.0",
+    "range-emitter": "1.0.0"
+  },
+  "devDependencies": {
+    "standard": "6.0.8"
+  },
+  "license": "MIT"
+}
