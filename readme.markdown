@@ -29,7 +29,8 @@ re.subscribe((key, type) => console.log('changed %s', key, type))
 # server example
 
 ``` javascript
-  var session = require('level-range-emitter').server(db)
+  var lre = require('level-range-emitter').server(db)
+  var session = lre.session
   var dbStream = multileveldown.server(dbInstance)
   session(dbStream, stream)
 ```

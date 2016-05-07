@@ -12,7 +12,11 @@ function server (db) {
       onChange(e, key, type)
     })
   })
-  return newSession
+
+  return {
+    session: newSession,
+    emutter: re
+  }
 
   function newSession (dbStream, wsStream) {
     function onPut (key) { onChange(re, key, 'put') }
