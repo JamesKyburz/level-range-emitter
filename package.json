@@ -22,7 +22,8 @@
   "main": "index.js",
   "version": "1.0.1",
   "scripts": {
-    "prepublish": "standard"
+    "prepublish": "standard",
+    "preversion": "standard"
   },
   "dependencies": {
     "end-of-stream": "1.1.0",
