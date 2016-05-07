@@ -15,7 +15,7 @@ function server (db) {
 
   return {
     session: newSession,
-    emutter: re
+    emitter: re
   }
 
   function newSession (dbStream, wsStream) {
