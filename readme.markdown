@@ -2,7 +2,7 @@
 
 range emitter hooks for leveldb
 
-client and server using [range-emitter] [multileveldown] [ltgt]
+client and server using [multileveldown], [range-emitter] and [ltgt]
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
