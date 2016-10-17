@@ -2,7 +2,7 @@
 
 range emitter hooks for leveldb
 
-client and server using [range-emitter] [leveldb] [ltgt]
+client and server using [range-emitter] [multileveldown] [ltgt]
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
@@ -36,4 +36,5 @@ re.subscribe((key, type) => console.log('changed %s', key, type))
 ```
 
 [ltgt]: https://www.npmjs.com/package/ltgt
+[multileveldown]: https://www.npmjs.com/package/multileveldown
 [range-emitter]: https://github.com/JamesKyburz/range-emitter
