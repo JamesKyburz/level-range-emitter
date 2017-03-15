@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "end-of-stream": "1.4.0",
-    "range-emitter": "1.0.14"
+    "range-emitter": "1.0.15"
   },
   "devDependencies": {
     "standard": "9.0.0"
