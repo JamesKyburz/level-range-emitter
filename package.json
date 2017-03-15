@@ -26,7 +26,7 @@
     "preversion": "standard"
   },
   "dependencies": {
-    "end-of-stream": "1.2.0",
+    "end-of-stream": "1.4.0",
     "range-emitter": "1.0.14"
   },
   "devDependencies": {
