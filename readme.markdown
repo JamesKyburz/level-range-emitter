@@ -1,5 +1,7 @@
 # level-range-emitter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JamesKyburz/level-range-emitter.svg)](https://greenkeeper.io/)
+
 range emitter hooks for leveldb
 
 client and server using [multileveldown], [range-emitter] and [ltgt]
