@@ -26,11 +26,11 @@
     "preversion": "standard"
   },
   "dependencies": {
-    "end-of-stream": "1.4.0",
-    "range-emitter": "1.0.20"
+    "end-of-stream": "1.4.1",
+    "range-emitter": "2.0.0"
   },
   "devDependencies": {
-    "standard": "10.0.3"
+    "standard": "12.0.1"
   },
   "license": "MIT"
 }
