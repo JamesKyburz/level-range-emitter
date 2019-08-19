@@ -30,7 +30,7 @@
     "range-emitter": "2.0.0"
   },
   "devDependencies": {
-    "standard": "12.0.1"
+    "standard": "14.0.0"
   },
   "license": "MIT"
 }
